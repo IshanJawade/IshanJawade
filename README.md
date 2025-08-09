@@ -1,5 +1,6 @@
-# <p align="center" style="font-size:48px;"> iShan jAwade </p>
----
+# <p align="center" style="font-size:35px;"> Hi it's me </p>
+# <p align="center" style="font-size:48px;"> Ishan Jawade </p>
+
 🎓 Master's Student in Computer Science @ California State University, Fullerton  
 🌍 From Pune, India | 📍 Currently in California, USA
 💼 Ex-Accenture 
