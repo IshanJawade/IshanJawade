@@ -1,5 +1,5 @@
-### Hi it's me Ishan Jawade
-
+# <p align="center" style="font-size:48px;"> iShan jAwade </p>
+---
 🎓 Master's Student in Computer Science @ California State University, Fullerton  
 🌍 From Pune, India | 📍 Currently in California, USA
 💼 Ex-Accenture 
