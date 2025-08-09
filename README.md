@@ -3,7 +3,18 @@
 🎓 Master's Student in Computer Science @ California State University, Fullerton  
 🌍 From Pune, India | 📍 Currently in California, USA
 💼 Ex-Accenture 
-📫 [LinkedIn](https://www.linkedin.com/in/ishanjawade/) • [GitHub](https://github.com/IshanJawade) • [LeetCode](https://leetcode.com/u/CounterCoder/)
+📫 [ishanjawade@outlook.com](mailto:ishanjawade@outlook.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishanjawade/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/IshanJawade">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/CounterCoder/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 ---
 
