@@ -56,7 +56,7 @@
 
 ### 📊 Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/CounterCoder?theme=dark&font=Roboto&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/CounterCoder?theme=dark&font=Roboto&ext=heatmap)
 ![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshanJawade&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanJawade&layout=compact&theme=radical)
 
