@@ -1,4 +1,4 @@
-## 👨‍💻 Ishan Jawade
+### Hi it's me Ishan Jawade
 
 🎓 Master's Student in Computer Science @ California State University, Fullerton  
 🌍 From Pune, India | 📍 Currently in California, USA
@@ -54,8 +54,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/CounterCoder?theme=dark&font=Roboto&ext=contest)
 ![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshanJawade&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanJawade&layout=compact&theme=radical)
 
